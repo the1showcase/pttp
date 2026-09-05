@@ -7,12 +7,13 @@
   venue: KP's Yard
   ticket_url: ""  # leave blank if tickets aren't on sale yet
 
-- date: 2026-07-12
+- date: 2026-12-26
   city: Bastrop, TX
-  venue: 602 Brewing
-  ticket_url: https://example.com/tickets/602
+  venue: Chestnut Grove Food Court 11am-1pm
+  ticket_url: ""  # leave blank if tickets aren't on sale yet
 
-- date: 2026-07-06
-  city: New York, Ny
-  venue: Carnegie hall
-  ticket_url: ""  
+ - date: 2026-26-26 
+  city: Bastrop, TX
+  venue: Chestnut Grove Food Court 11am-1pm
+  ticket_url: ""  # leave blank if tickets aren't on sale yet
+
