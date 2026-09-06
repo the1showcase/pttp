@@ -6,3 +6,19 @@
   city: Bastrop, TX
   venue: Private Party
   ticket_url: ""  # leave blank if tickets aren't on sale
+
+- date: 2026-09-12
+  city: Bastrop, TX
+  venue: Chestnut Grove 11am-1pm
+  ticket_url: ""  # leave blank if tickets aren't on sale
+
+- date: 2026-09-13
+  city: Bastrop, TX
+  venue: Bastrop Convention & Exhibit Center, 1408 Chestnut St 2pm-5pm
+  ticket_url: ""  # leave blank if tickets aren't on sale
+
+- date: 2026-09-26
+  city: Bastrop, TX
+  venue: Chestnut Grove 11am-1pm
+  ticket_url: ""  # leave blank if tickets aren't on sale
+  
