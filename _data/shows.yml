@@ -2,12 +2,17 @@
 # Delete a show once it's passed, or leave it — your call.
 # Date format: YYYY-MM-DD
 
-- date: 2026-08-01
-  city: Bastrop, TX
-  venue: Private Party
+- date: 2026-10-24
+  city: Chilton, TX
+  venue: Leon Family House Fire Benefit-Faith Over Fire, 7589 Golinda Dr, zip-78632 
   ticket_url: ""  # leave blank if tickets aren't on sale
 
-- date: 2026-09-12
+- date: 2026-10-10
+  city: Bastrop, TX
+  venue: Chestnut Grove 11am-1pm
+  ticket_url: ""  # leave blank if tickets aren't on sale
+
+- date: 2026-10-26
   city: Bastrop, TX
   venue: Chestnut Grove 11am-1pm
   ticket_url: ""  # leave blank if tickets aren't on sale
@@ -17,8 +22,15 @@
   venue: Bastrop Convention & Exhibit Center, 1408 Chestnut St 2pm-5pm
   ticket_url: ""  # leave blank if tickets aren't on sale
 
-- date: 2026-09-26
+  - date: 2026-09-12
   city: Bastrop, TX
   venue: Chestnut Grove 11am-1pm
   ticket_url: ""  # leave blank if tickets aren't on sale
+
+- date: 2026-08-01
+  city: Bastrop, TX
+  venue: Private Party
+  ticket_url: ""  # leave blank if tickets aren't on sale
+
+  
   
